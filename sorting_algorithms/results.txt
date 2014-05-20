@@ -1,0 +1,5 @@
+Insertion Sort 26.940sec
+Merge Sort 0.533sec
+inbuilt c++ sort 0.163sec
+heap sort 0.378sec
+quick sort 0.267sec
