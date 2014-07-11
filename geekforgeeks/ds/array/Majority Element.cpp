@@ -124,7 +124,7 @@ void method2()
 //method3 Moore's Voting algorithm
 void method3()
 {
-    int a[]={2, 2, 3, 5, 2, 2, 6};
+    int a[]={2, 2, 3, 5, 2, 5};
     int n=sizeof(a)/sizeof(int);
     int index=0;
     int countit=1;
